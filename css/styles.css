@@ -1,0 +1,27 @@
+body
+{
+  text-align: center;
+  background-color: #A9E4EF;
+  font-family: monospace;
+}
+
+hr
+{
+  border-style: none;
+  background-color: white;
+  height: 2px;
+  width: 40%;
+}
+
+p
+{
+  width: 60%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
